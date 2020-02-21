@@ -7,4 +7,4 @@ let promise = new Promise((resolve, reject) => {
         reject(Error("It broke"));
     }
 })
-    .then(promiseResult => console.log(promiseResult));
+    .then(console.log);
