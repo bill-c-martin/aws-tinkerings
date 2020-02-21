@@ -7,7 +7,7 @@
     "hello-world-echo": "node hello-world-echo.js",
     "hello-world-obj": "node hello-world-obj.js",
     "promise-demo": "node promise-demo.js",
-    "lambda-demo-test": "lambda-local -t 3 -l lambda-demo.js -h handler -e tests/lambda-demo.json"
+    "lambda-demo-with-tests": "lambda-local -t 3 -l lambda-demo.js -h handler -e tests/lambda-demo.json"
   },
   "author": "",
   "license": "ISC"

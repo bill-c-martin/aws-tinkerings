@@ -1,5 +1,6 @@
 exports.handler = async (event, context) => {
     return new Promise((resolve, reject) => {
-        console.log(``);
+        console.log(`hello lambda`);
+        resolve();
     })
 };
