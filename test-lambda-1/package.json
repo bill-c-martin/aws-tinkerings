@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "hello": "node hello.js"
+    "hello-world-echo": "node hello-world-echo.js",
+    "hello-world-obj": "node hello-world-obj.js"
   },
   "author": "",
   "license": "ISC"
