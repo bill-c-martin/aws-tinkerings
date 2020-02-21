@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "hello-world-echo": "node hello-world-echo.js",
-    "hello-world-obj": "node hello-world-obj.js"
+    "hello-world-obj": "node hello-world-obj.js",
+    "promise-demo": "node promise-demo.js"
   },
   "author": "",
   "license": "ISC"
